@@ -18,3 +18,8 @@ jobs:
 
           echo "Repository files:"
           ls -la
+
+       - name: Check Docker
+        run: |
+          docker version
+          docker info
