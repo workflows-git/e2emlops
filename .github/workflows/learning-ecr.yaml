@@ -1,4 +1,4 @@
-name: Learning - ECR Pipeline
+name: Learning - ECR Workflow
 
 on:
   workflow_dispatch:
